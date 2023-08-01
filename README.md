@@ -22,5 +22,3 @@ This project is licensed under the MIT License.
 PineappleX Bootstrapper is developed and maintained by 3rdKindGamer (Me).
 
 Feel free to contribute to the project by creating issues, suggesting improvements, or submitting pull requests. Your contributions are highly appreciated!
-
-For more details on PineappleX, visit PineappleZX Repository.
