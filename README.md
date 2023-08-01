@@ -1,6 +1,5 @@
 # PineappleX Bootstrapper
- Pineapple X Bootstrapper is a simple console application written in C# that launches the PineappleZX app. It also generates a unique key, provides an option to enter the generated key to continue bootstrapping, and checks if PineappleZX is installed. If PineappleZX is not installed, it informs the user to install it before continuing.
-
+ Pineapple X Bootstrapper is a simple console application written in C# that launches the PineappleZX app. It also generates a unique key, provides an option to enter the generated key to continue bootstrapping, and checks if PineappleZX is installed.
 # Usage
 Download the PineappleX Bootstrapper executable from the Releases section of this repository.
 Run the PineappleX Bootstrapper executable. It will automatically launch PineappleZX and perform necessary configurations.
