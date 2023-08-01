@@ -1,6 +1,7 @@
 # WARNING!!!!!!!!!!!! PINEAPPLE X IS NOT YET RELEASED!
 
 
+![Bootstrapper](https://github.com/3rdKindGamer/PineappleX-Bootstrapper/assets/135512099/722339ee-08a1-42c9-b497-be2f4f3435ef)
 
 
 # PineappleX Bootstrapper
